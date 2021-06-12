@@ -2,7 +2,11 @@
   "dependencies": {
     "com.unity.2d.animation": {
       "version": "5.0.5",
+<<<<<<< Updated upstream
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> Stashed changes
       "source": "registry",
       "dependencies": {
         "com.unity.2d.common": "4.0.3",
@@ -30,11 +34,23 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< Updated upstream
     "com.unity.2d.pixel-perfect": {
       "version": "4.0.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
+=======
+    "com.unity.2d.psdimporter": {
+      "version": "4.0.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.2d.common": "4.0.2",
+        "com.unity.2d.animation": "5.0.2",
+        "com.unity.2d.sprite": "1.0.0"
+      },
+>>>>>>> Stashed changes
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.sprite": {
